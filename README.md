@@ -14,8 +14,7 @@ I have successfully completed my Senior Secondary Education from BCM School, Sec
 | ----------- | ----------- |
 | 10.07.2024 | - | Path and Ardaas in Gurudwara Sahib. On the very first day of Student Induction Program 2024-25 we went to Gurudwara Sahib which is situated inside the college campus.|
 | 10.07.2024 | - | After Path and Ardaas, Tea and Snacks Break was organised outside Gurudwara Sahib and everyone enjoyed it full heartedly. |
-| 10.07.2024 | - | After the break students were instructed to go to Auditorium of GNDEC where volunteers gave students their files which included GNDEC's Prospectus, Letter from Principal Sir, Schedule and some extra stuff. We were  |
-| 11.07.2024 | Dr.Arvind Dhingra | Dr.Dhingra is TAC and Director of STEP i.e. Science and Technology Enterpreneurs Park. He even told us about different committes present in GNDEC Campus. |
-| 11.07.2024 | Dr.Parminder Singh |  |
-| 15.07.2024 | Dr.Randhir Singh | Dr.Randhir Singh Sir gave us a demo on "How to make a GitHub Profile?". He explained us different things about it, how |
-| 15.07.2024 | Dr.Pyare Lal Garg | Dr. Garg told us important things. |
+| 10.07.2024 | - | After the break students were instructed to go to Auditorium of GNDEC where volunteers gave students their files which included GNDEC's Prospectus, Letter from Principal Sir, Schedule and some extra stuff. We were welcomed by our worthy Principal Sir, Ex. Principal Sir, Dr. Harpreet Kaur Grewal Mam (HOD Applied Sciences), Chief Guests - Respected Mr.Jeevandeep Sir and Mr.Rajeshwar Singh Sir. I felt delighted by warm welcome and by the teachings of our respected mentors.  |
+| 15.07.2024 | Dr.Randhir Singh | Dr.Randhir Singh Sir gave us a demo on "How to make a GitHub Profile?". He explained about how to create an account, making our very first GitHub website. We were also informed about the Examination Pattern. |
+| 15.07.2024 | Dr.Pyare Lal Garg | Dr. Garg Sir shared his own life experiences with us. Being a teacher, a mentor, an expert in the field of Medical Sciences he gave us all the valuable insights he could.|
+| 15.07.2024 | Mr.Sony Goyal | |
