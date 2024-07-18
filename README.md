@@ -8,6 +8,9 @@ My name is Sukhmani Guleria and I am a dedicated B.Tech First Year CSE (Computer
 I am in the know of programming languages such as Python, Java, Frontend Technologies such as HTML, CSS, Databases such as MySQL.
 I have successfully completed my Senior Secondary Education from BCM School, Sec32A, Urban Estate.
 
+# FREE EXCEL COURSE BY GREAT LEARNING
+
+
 ## Activity Report of Student Induction Program 2024
 
 | Date | Resource Person |  Event/Description |
@@ -23,3 +26,7 @@ I have successfully completed my Senior Secondary Education from BCM School, Sec
 | 17.07.2024 | Ms.Manjot Kaur | Ms.Manjot Mam in the UHV class explained us about the Universal Human Values we need to learn so that we can live peacefully in a society with right understanding with everyone around us.|
 | 17.07.2024 | Er.Jaswant Singh | Er.Jaswant sir interacted with us regarding our experience at GNDEC's campus and also made us aware about the Cultural Committee. He told us about different co-curricular activities in which we can participate in future.|
 | 17.07.2024 | - | We also had an English Proficiency Test on the basis of 10+2 level.|
+| 18.07.2024 | Ms.Manjot Kaur | Ms.Manjot mam gave us a lecture on Ethical Human Values needed to live in a society. We were taught about different types of feelings etc. |
+| 18.07.2024 | - | We had a lecture on Technical Peer Interaction which was hosted by our seniors, in which we were taught about different topics on Excel and also about the use of ChatGPT. |
+| 18.07.2024 | Dr.Harwinder Singh (ANO)| Dr.Harwinder sir inspired freshers about the significance of NCC (National Cadet Corps) and it's values. He told us about how we can be the part of it, information about Army Wing, Air Wing and Naval Wing. |
+| 18.07.2024 | Er.Jasvir Singh Grewal | Er.Grewal Sir taught us about NSS (National Service Scheme). He also nurtured social responsibility into the young minds through NSS. | 
