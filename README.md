@@ -9,7 +9,7 @@ I am in the know of programming languages such as Python, Java, Frontend Technol
 I have successfully completed my Senior Secondary Education from BCM School, Sec32A, Urban Estate.
 
 # FREE EXCEL COURSE BY GREAT LEARNING
-
+![Excel Course GNE Certificate SG](https://github.com/user-attachments/assets/d044dc80-28b1-448d-906a-9c1e768ad082)
 
 ## Activity Report of Student Induction Program 2024
 
