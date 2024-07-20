@@ -10,6 +10,7 @@ I have successfully completed my Senior Secondary Education from BCM School, Sec
 
 # FREE EXCEL COURSE BY GREAT LEARNING
 ![Excel Course GNE Certificate SG](https://github.com/user-attachments/assets/d044dc80-28b1-448d-906a-9c1e768ad082)
+
 I successfully completed this Excel Course meant for beginners to Excel which can be accessed freely on Great Learning. We were taught different topics in this from which few were new to me and few I already knew. The topics were Basic functions and formulas, Sorting, Filtering, Text Data, Conditional Formatting, If Else and different types of charts such as Bar Graph, Pie Chart, Area Chart, Statistics Chart and the counting in endless. The skills I learnt are used to perform Data Analysis and the jobs related to this profession are in high demand and anyone who completes this course can get benefit from it. 
 #gndec #official.gndec
 
