@@ -5,14 +5,13 @@
 ## Sukhmani Guleria welcomes you on her First GitHub Website.
 
 My name is Sukhmani Guleria and I am a dedicated B.Tech First Year CSE (Computer Science & Engineering) student with a passion for exploring the intricacies of Computer Science. Currently immersed in my academic journey, I am eager to apply my knowledge in engineering, programming and software development to solve real-world challenges and innovate within the field.
-I am in the know of programming languages such as Python, Java, Frontend Technologies such as HTML, CSS, DBMS such as MySQL.
+I am in the know of programming languages such as Python, Java, Frontend Technologies such as HTML, CSS and DBMS such as MySQL.
 I have successfully completed my Senior Secondary Education from BCM School, Sec32A, Urban Estate.
 
 # FREE EXCEL COURSE BY GREAT LEARNING
 ![Excel Course GNE Certificate SG](https://github.com/user-attachments/assets/d044dc80-28b1-448d-906a-9c1e768ad082)
 
 I successfully completed this Excel Course meant for beginners to Excel which can be accessed freely on Great Learning. We were taught different topics in this from which few were new to me and few I already knew. The topics were Basic functions and formulas, Sorting, Filtering, Text Data, Conditional Formatting, If Else and different types of charts such as Bar Graph, Pie Chart, Area Chart, Statistics Chart and the counting in endless. The skills I learnt are used to perform Data Analysis and the jobs related to this profession are in high demand and anyone who completes this course can get benefit from it. 
-#gndec #official.gndec
 
 ## Activity Report of Student Induction Program 2024
 
