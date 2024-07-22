@@ -32,3 +32,6 @@ I successfully completed this Excel Course meant for beginners which can be acce
 | 18.07.2024 | - | We had a lecture on Technical Peer Interaction which was hosted by our seniors, in which we were taught about different topics on Excel and also about the use of ChatGPT. |
 | 18.07.2024 | Dr.Harwinder Singh (ANO)| Dr.Harwinder sir inspired freshers about the significance of NCC (National Cadet Corps) and it's values. He told us about how we can be the part of it, information about Army Wing, Air Wing and Naval Wing. |
 | 18.07.2024 | Er.Jasvir Singh Grewal | Er.Grewal Sir taught us about NSS (National Service Scheme). He also nurtured social responsibility into the young minds through NSS. | 
+| 22.07.2024 | Dr.S.B. Singh | Dr.S.B. Sir made us do an activity in which we were to write our name, contact, parent's name and contact, our strengths and weaknesses and a lot more. |
+| 22.07.2024 | Dr.Pushpinder Singh | Dr.Pushpinder Sir shared his own life experiences with students and motivated them to work hard to be successful in their lives. |
+| 22.07.2024 | ... | ... |
