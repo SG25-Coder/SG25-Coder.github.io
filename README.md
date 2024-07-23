@@ -35,3 +35,5 @@ I successfully completed this Excel Course meant for beginners which can be acce
 | 22.07.2024 | Dr.S.B. Singh | Dr.S.B. Sir made us do an activity in which we were to write our name, contact, parent's name and contact, our strengths and weaknesses and a lot more. |
 | 22.07.2024 | Dr.Pushpinder Singh | Dr.Pushpinder Sir shared his own life experiences with students and motivated them to work hard to be successful in their lives. |
 | 22.07.2024 | ... | ... |
+| 23.07.2024 | Ms.Jasmine Kaur | Ms.Jasmine mam taught us universal human values and made us revise all the previous concepts as well. |
+| 23.07.2024 | Dr.Jaspreet Singh | Dr.Jaspreet sir discussed general concepts of physics. He discussed about Optical Fibre, Laser, Nano materials, Light etc. | 
