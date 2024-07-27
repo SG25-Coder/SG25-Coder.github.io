@@ -37,3 +37,15 @@ I successfully completed this Excel Course meant for beginners which can be acce
 | 22.07.2024 | ... | ... |
 | 23.07.2024 | Ms.Jasmine Kaur | Ms.Jasmine mam taught us universal human values and made us revise all the previous concepts as well. |
 | 23.07.2024 | Dr.Jaspreet Singh | Dr.Jaspreet sir discussed general concepts of physics. He discussed about Optical Fibre, Laser, Nano materials, Light etc. | 
+| 24.07.2024 | Mr.Gauravdeep Singh | Mr.Gauravdeep Sir, Founder and Chairman of Initiators of Change, shared his life experiences and motivated students to not to loose hope in any situation and have faith in Almighty. |
+| 24.07.2024 | Er.Lakhveer Singh | Er.Lakhveer Sir told us about varios NPTEL courses in which we can enroll and enhance our skills. | 
+| 24.07.2024 | - | Members of Causmic Club (Our Seniors) gave us the information regarding Causmic Club, past events, upcoming events, enrollment criteria and many more. | 
+| 25.07.2024 | Mr.Karan Bhalla | Mr.Karan Sir introduced himself and taught us the Basics of Physical, Organic and Inorganic Chemistry. | 
+| 25.07.2024 | Ms.Manjot Kaur | Ms.Manjot mam suggested us to take part in GD (Group Discussion) on the Topic-Value Education in Homes, School, Society and Nature. |
+| 25.07.2024 | - | We had a Maths Test. |
+| 26.07.2024 | Dr.Kanwalpreet Kaur Bhatt | Dr.Kanwalpreet Mam, a renowned Homeopathic Practitioner having 20 years of experience, taught us the importance and method of Meditation. She also held a 15 minutes Practical Meditation Session and students were asked to share their experiences. |
+| 26.07.2024 | - | Students of 1st Year Batch showcased their incredible singing and dance performances. | 
+
+# That was all about my Activity Report of Induction Program 2024. 
+
+## I would like to express gratitude to our esteemed Principal Sir, Respected Professors, Staff Members, and Seniors for their encouragement and inspiration during this Induction Program.
