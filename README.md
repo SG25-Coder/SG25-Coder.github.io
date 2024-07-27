@@ -50,5 +50,5 @@ I successfully completed this Excel Course meant for beginners which can be acce
 
 ### I would like to express gratitude to our esteemed Principal Sir, Respected Professors and Seniors for their encouragement and inspiration during this Induction Program.
 
-### Regards,
-### Sukhmani Guleria 
+### Regards, 
+Sukhmani Guleria 
