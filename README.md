@@ -34,7 +34,7 @@ I successfully completed this Excel Course meant for beginners which can be acce
 | 18.07.2024 | Er.Jasvir Singh Grewal | Er.Grewal Sir taught us about NSS (National Service Scheme). He also nurtured social responsibility into the young minds through NSS. | 
 | 22.07.2024 | Dr.S.B. Singh | Dr.S.B. Sir made us do an activity in which we were to write our name, contact, parent's name and contact, our strengths and weaknesses and a lot more. |
 | 22.07.2024 | Dr.Pushpinder Singh | Dr.Pushpinder Sir shared his own life experiences with students and motivated them to work hard to be successful in their lives. |
-| 22.07.2024 | ... | ... |
+| 22.07.2024 | Ms.Sangeeta Kapoor | Ms.Sangeeta Mam, a Social Entrepreneur, shared her thoughts on a sustainable future. |
 | 23.07.2024 | Ms.Jasmine Kaur | Ms.Jasmine mam taught us universal human values and made us revise all the previous concepts as well. |
 | 23.07.2024 | Dr.Jaspreet Singh | Dr.Jaspreet sir discussed general concepts of physics. He discussed about Optical Fibre, Laser, Nano materials, Light etc. | 
 | 24.07.2024 | Mr.Gauravdeep Singh | Mr.Gauravdeep Sir, Founder and Chairman of Initiators of Change, shared his life experiences and motivated students to not to loose hope in any situation and have faith in Almighty. |
@@ -46,6 +46,9 @@ I successfully completed this Excel Course meant for beginners which can be acce
 | 26.07.2024 | Dr.Kanwalpreet Kaur Bhatt | Dr.Kanwalpreet Mam, a renowned Homeopathic Practitioner having 20 years of experience, taught us the importance and method of Meditation. She also held a 15 minutes Practical Meditation Session and students were asked to share their experiences. |
 | 26.07.2024 | - | Students of 1st Year Batch showcased their incredible singing and dance performances. | 
 
-# That was all about my Activity Report of Induction Program 2024. 
+## That was all about my Activity Report of Induction Program 2024. 
 
-## I would like to express gratitude to our esteemed Principal Sir, Respected Professors, Staff Members, and Seniors for their encouragement and inspiration during this Induction Program.
+### I would like to express gratitude to our esteemed Principal Sir, Respected Professors and Seniors for their encouragement and inspiration during this Induction Program.
+
+### Regards,
+### Sukhmani Guleria 
