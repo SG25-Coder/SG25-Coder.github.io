@@ -4,7 +4,7 @@
 
 ## Sukhmani Guleria welcomes you on her First GitHub Website.
 
-My name is Sukhmani Guleria and I am a dedicated B.Tech First Year CSE (Computer Science & Engineering) student with a passion for exploring the intricacies of Computer Science. Currently immersed in my academic journey, I am eager to apply my knowledge in engineering, programming and software development to solve real-world challenges and innovate within the field.
+My name is Sukhmani Guleria and I am a dedicated B.Tech First Year CSE (Computer Science & Engineering) student with a passion for exploring the intricacies of Computer Science. Currently immersed in my academic journey, I am eager to apply my knowledge in designing, engineering, programming and software development to solve real-world challenges and innovate within the field.
 I am in the know of programming languages such as Python, Java, Frontend Technologies such as HTML, CSS and DBMS such as MySQL.
 I have successfully completed my Senior Secondary Education from BCM School, Sec32A, Urban Estate.
 
