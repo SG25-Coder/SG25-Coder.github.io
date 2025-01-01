@@ -57,7 +57,7 @@ I successfully completed this Excel Course meant for beginners which can be acce
 
 ## That was all about my Activity Report of Induction Program 2024. 
 
-### I would like to express gratitude to our esteemed Principal Sir, Respected Professors and Seniors for their hard work, encouragement and inspiration during this Induction Program.
+### I would like to express gratitude to our esteemed Principal Sir, Respected Professors and Seniors for their hard work and encouragement during this Induction Program.
 
 ### Regards, 
 ### Sukhmani Guleria 
